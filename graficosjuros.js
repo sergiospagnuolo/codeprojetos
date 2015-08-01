@@ -1,3 +1,7 @@
+<head>
+<script src="Chart.js" type="text/javascript"></script>
+</head>
+
  <!--Gráfico Cheque Especial-->
            
            <div class="grafico" id="graph1">
